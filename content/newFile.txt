@@ -1,0 +1,1 @@
+This is Awsome : [object Promise] [object Promise]This is Awsome : Hello this is first text file. [object Promise]This is Awsome : Hello this is first text file. Hello this is second text file.This is Awsome : Hello this is first text file. Hello this is second text file.
