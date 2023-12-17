@@ -1,10 +1,10 @@
 //Modules
 
-const names = require('./3_names');
-const sayhi = require('./4_utils');
-const data = require('./5_alternative_exports');
+const names = require('./NodeJs_tut/3_names');
+const sayhi = require('./NodeJs_tut/4_utils');
+const data = require('./NodeJs_tut/5_alternative_exports');
 // console.log(data);
-require('./6_mind_granade');
+require('./NodeJs_tut/6_mind_granade');
 
 
 
